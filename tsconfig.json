@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "sourceMap": true,
+    "typeRoots": ["src/types", "node_modules/@types"]
+  }
+}

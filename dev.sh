@@ -1,0 +1,1 @@
+nodemon --watch . --ext html,ts --exec "tsc index.ts; http-server ."
